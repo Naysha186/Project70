@@ -1,0 +1,20 @@
+body{
+    background-color: lightskyblue;
+    text-align:center;
+}
+img{
+    text-align: center;
+    width: 500px;
+    height: 500px;
+}
+.whatsnew_li{
+    margin-top: 13px;
+}
+.whatsnew_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    
+}
+#Indumam{
+    margin-left: 200px;
+}
